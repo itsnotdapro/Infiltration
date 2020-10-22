@@ -9,5 +9,5 @@ Deep, in the heart of the Combine Empire, many secrets lay hidden. Technology, p
 
 <h4 align="center">A Half-Life: Alyx addon, created by:</h4>
 
-<img align="center" width="330" src="docs/logo.png"></img>
+<div align="center"><img width="330" src="docs/logo.png"></img></div>
 
