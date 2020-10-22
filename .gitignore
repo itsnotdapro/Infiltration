@@ -1,0 +1,9 @@
+# Compiled game files
+*.vpk
+*.vtex_c
+*.vmat_c
+*.los
+*.vmdl_c
+
+# Ignored files
+!combine_citadel001b.vmdl_c
