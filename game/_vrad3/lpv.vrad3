@@ -1,0 +1,30 @@
+// maps/vm3_infiltration_2.vmap
+
+lpv_compute:
+    sceneinfo scene_info.dat
+    run $init
+    lpv_direct $directfile $startx $starty $startz $endx $endy $endz
+    lpv_indirect $indirectfile $startx $starty $startz $endx $endy $endz $minspp $maxspp $errortol
+    done
+
+lpv_init_1613019030:
+    lpv_cells 24 32 12
+    lpv_box -136.437164 -130.000000 -65.000000 148.562836 207.554413 72.000000
+    lpv_local_to_world 1.000000 0.000000 0.000000 256.437164 0.000000 1.000000 0.000000 -10.554420 -0.000000 0.000000 1.000000 64.000000
+    lpv_init
+    lpv_load_solid_voxels voxels_1613019030.dat
+    done
+
+lpv_finish_all:
+    sceneinfo scene_info.dat
+    run lpv_init_1613019030
+    lpv_image
+    lpv_direct_load lpv_1613019030_direct_0_0_0.dat 0 0 0 24 32 12
+    lpv_indirect_load lpv_1613019030_indirect_0_0_0.dat 0 0 0 24 32 12
+    lpv_image_ambient_occlusion
+    lpv_image_median_filter 3
+    lpv_image_resolve
+    lpv_image_write_ambientcube           lpv_1613019030_ambientcube.exr
+    lpv_image_write_direct_light_indices  lpv_1613019030_dli.tga  lpv_1613019030_dls.tga
+    done
+
