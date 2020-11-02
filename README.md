@@ -1,4 +1,4 @@
-<div align="center"><img width="600" src="docs/icon.png"></img></div>
+<div align="center"><img width="700" src="docs/icon.png"></img></div>
 
 Deep, in the heart of the Combine Empire, many secrets lay hidden. Technology, power, far beyond what the Resistance is capable of. But what if you could have it for yourself? What if you could break behind enemy lines, and steal it for the good of mankind...
 
