@@ -1,13 +1,8 @@
 # Compiled game files
 *.vpk
-*.vtex_c
-*.vmat_c
+*.vpost_c
 *.los
-*.vmdl_c
 *.exr
 content/_bakeresourcecache/*
 game/_vrad3/*
 
-# Ignored files
-!combine_citadel001b.vmdl_c
-!combine_apc.vmdl_c
