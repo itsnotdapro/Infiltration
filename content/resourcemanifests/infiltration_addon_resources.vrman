@@ -3,7 +3,7 @@
 	resourceManifest = 
 	[
 		[ 
-			"soundevents/template_soundevents.vsndevts",
+			"soundevents/music_soundevents.vsndevts",
 		],
 	]
 }
