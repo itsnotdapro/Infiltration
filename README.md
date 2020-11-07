@@ -1,8 +1,8 @@
 <div align="center"><img src="docs/icon.png"></img></div>
 
-Deep, in the heart of the Combine Empire, many secrets lay hidden. Technology, power, far beyond what the Resistance is capable of. But what if you could have it for yourself? What if you could break behind enemy lines, and steal it for the good of mankind...
+Caught, in the heart of the Combine Empire, you find yourself right in enemy lines. But what is the purpose of this facility? Can you make it out alive, with nothing but your wits to defend yourself?
 
-Images coming soon
+Images coming soon...
 
 ---
 <h4 align="center">This is an entry into the third VaultMap's contest, Horror</h4>

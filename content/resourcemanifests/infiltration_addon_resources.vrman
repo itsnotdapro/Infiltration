@@ -3,7 +3,7 @@
 	resourceManifest = 
 	[
 		[ 
-			"soundevents/music_soundevents.vsndevts",
+			"soundevents/vgamma/music_soundevents.vsndevts",
 		],
 	]
 }

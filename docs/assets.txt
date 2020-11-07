@@ -1,0 +1,10 @@
+MATERIALS
+icon, vg, blocke13, conversion, dimention, e13, h16, monitoring_station, failure_relocate, storage, vision.vmat_c 
+post_dark_room, post_map_main.vpost_c - Me
+(+ corresponding .vtex_c's)
+
+MODELS
+combine_barricade_short01a, monitor_larger, monitor01_medium, furnituretable001a.vmdl_c - RetroBoy, Dyna (Half-Life: 2 Remade)
+
+MUSIC
+Nova Prospekt, nprospkt.vsnd_c - Kelly Bailey (Half-Life: 2)

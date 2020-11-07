@@ -1,0 +1,10 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+    Inifiltration.nprospkt = {
+		type = "hlvr_default_3d"
+		volume = 2.0
+        volume_fade_in = 10
+        volume_fade_out = 10
+		vsnd_files = [ "sounds/vgamma/nprospkt.vsnd" ]
+	}
+}
